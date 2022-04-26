@@ -1,4 +1,5 @@
-- 👋 Hi, I’m Osanda Deegayu Jayasinghe
+![](Images/Programmer.gif)
+-    👋 Hi, I’m Osanda Deegayu Jayasinghe
 - 👀 Software Engineering Undergraduarte at Sri Lanka Institute of Information Technology
 - 📫 How to reach me Via E-mail osandadeegayu99@gmail.com
 
